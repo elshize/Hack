@@ -71,16 +71,28 @@
       <point x="434" y="135"/>
     </contour>
     <contour>
-      <point x="114" y="295" type="line"/>
-      <point x="919" y="1196" type="line"/>
-      <point x="1119" y="1196" type="line"/>
-      <point x="311" y="295" type="line"/>
+      <point x="543" y="643" type="line" name="dv03" smooth="yes"/>
+      <point x="523" y="643"/>
+      <point x="513" y="653"/>
+      <point x="513" y="673" type="curve" name="dh03" smooth="yes"/>
+      <point x="513" y="818" type="line" smooth="yes"/>
+      <point x="513" y="838"/>
+      <point x="523" y="848"/>
+      <point x="543" y="848" type="curve" name="dv04" smooth="yes"/>
+      <point x="688" y="848" type="line" smooth="yes"/>
+      <point x="708" y="848"/>
+      <point x="718" y="838"/>
+      <point x="718" y="818" type="curve" name="hr01" smooth="yes"/>
+      <point x="718" y="673" type="line" name="dh04" smooth="yes"/>
+      <point x="718" y="653"/>
+      <point x="708" y="643"/>
+      <point x="688" y="643" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-09 03:45:42 +0000</string>
+      <string>2017-10-09 17:35:03 +0000</string>
     </dict>
   </lib>
 </glyph>
